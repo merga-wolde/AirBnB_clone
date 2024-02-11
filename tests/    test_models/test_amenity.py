@@ -3,7 +3,7 @@
 """
 File: test_amenity.py
 Desc: This module contains all possible testcases for the amenity.py
-      modlue in the models package. It uses the standard unittest.
+      modlue inpackage. It uses the standard unittest.
 """
 import unittest
 import models
