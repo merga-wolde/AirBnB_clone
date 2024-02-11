@@ -3,9 +3,7 @@
 """
 File: test_user.py
 Desc: This module contains all possible testcases for the user.py
-      modlue in the models package. It uses the standard unittest.
-Author: Gizachew Bayness (Elec Crazy) and Biruk Gelelcha
-Date Created: Sep 2 2022
+      modlue in the models package. It uses the standard unittes
 """
 import unittest
 import models
