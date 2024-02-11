@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module defines a class called Amenity that inherits
+This module defines class called Amenity that inherits
 from the BaseModel class
 """
 from models.base_model import BaseModel
