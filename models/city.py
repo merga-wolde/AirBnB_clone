@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-This module defines a class called City that inherits
+This module defines class called City that inherits
 from the BaseModel class
 """
 from models.base_model import BaseModel
