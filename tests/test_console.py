@@ -8,7 +8,7 @@ from io import StringIO
 class TestConsolePrompt(unittest.TestCase):
     """
     This class provides all possible test cases regarding prompt
-    response of class HBNBCommand.
+    response  HBNBCommand.
     """
     def test_prompt_output(self):
         self.assertEqual(HBNBCommand.prompt, "(hbnb) ")
