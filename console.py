@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This module contains the the entry point of the command interpreter
-for the AirBnB project.
+for AirBnB project.
 """
 import re
 import cmd
